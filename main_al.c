@@ -27,5 +27,7 @@ int main(void) {
   remove_ith(ll2, 4); //HALLO
   print_list(ll2);
 
+  delete_list(ll2);
+
   return (0);
 }
